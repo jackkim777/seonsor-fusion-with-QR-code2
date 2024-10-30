@@ -1,0 +1,5 @@
+Index: 1, Position: [0.03726542, 0.67041612], Orientation: [0.0, 0.0, 0.0]
+Index: 2, Position: [4.15682, 1.09925], Orientation: [0.0, 0.0, 0.0]
+Index: 3, Position: [9.20636368, 1.40192080], Orientation: [0.0, 0.0, 0.0]
+Index: 4, Position: [13.89621162, 1.72205329], Orientation: [0.0, 0.0, 0.0]
+Index: 5, Position: [19.6366, 2.1379], Orientation: [0.0, 0.0, 0.0]
